@@ -1,6 +1,3 @@
-[submodule "circleci-2.0-pytest-postgresql"]
-	path = circleci-2.0-pytest-postgresql
-	url = https://github.com/pbedn/circleci-2.0-pytest-postgresql
 [submodule "subzero-starter-kit"]
 	path = subzero-starter-kit
 	url = https://github.com/subzerocloud/subzero-starter-kit
